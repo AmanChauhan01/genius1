@@ -1,0 +1,13 @@
+@media screen and (max-width:1200px) {
+    
+}
+@media screen and (max-width:900px) {
+    #lbllname{font-size: 0px;}
+    #lblladdress{font-size: 28px;}
+}
+@media screen and (max-width:767px) {
+    
+}
+@media screen and (max-width:400px) {
+    
+}
